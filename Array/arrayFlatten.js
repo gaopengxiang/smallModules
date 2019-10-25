@@ -1,3 +1,4 @@
+// Flatten an array
 var arryFlatten = function (arry, res) {
     if (!Array.isArray(arry))
         return 'notArry';
