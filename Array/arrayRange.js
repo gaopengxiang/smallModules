@@ -1,3 +1,4 @@
+// return a array with the specified range
 var arrayRange = function (start, end) {
     var arrStart = start;
     var arrEnd = end;
